@@ -12,6 +12,15 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": "computer"
+        },
+        
+        {    "name": "Pokemon Paste",
+            "type": "python",
+            "request": "launch",
+            "program": "pokemon_paste.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": "Rockruff"
         }
     ]
 }
